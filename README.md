@@ -52,6 +52,11 @@ The "Wait, What?" Effect: Run the 1Pbps plan and walk away. When your friends se
 
 Full Immersion: Put your terminal in Full Screen Mode (F11) and turn off the menu bars. It looks 100% official.
 
+## ⚠️ IMPORTANT FOR DUMMIES:
+This is a simulation. If you call your internet company to ask why you aren't getting these speeds for real, they will laugh at you.
+
+The "Black Box" is your friend. Don't be scared of the text; you're basically a hacker now. Welcome to the Matrix. 🕶️
+
 
 # 🤝 NEED A CUSTOM PLAN?
 If you want to simulate a speed so fast it breaks the laws of physics, or if you just got stuck in the matrix, hit me up:
