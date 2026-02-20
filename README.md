@@ -69,5 +69,10 @@ GitHub: @xmyhead3
 
 Discord: @pvssyy
 
+## 📸 Visual Flex
+Check out the speeds in action:
+
+![My Nice Theme Just Flexing](<My%20Nice%20Theme%20Just%20Flexing.png>)
+
 📜 DISCLAIMER
 This is a simulator. It does not actually make your internet faster. If you try to use this to download a car, it won't work. Probably.
