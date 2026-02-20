@@ -51,7 +51,7 @@ Now that you have the Fish SHELL READY Paste The Code Inside FISH SHELL
 
 Step 4: Type `speedtest` for the full visual experience and watch your friends' jaws hit the floor. 😲💥. ( The Function Name Must Match The `speedtest` Make Sure It Is Not `download_test`)
 
-        Type `download_test` to watch the gigabytes fly also in ways you never seen before. ( The Function Name Must Match The `download_test` Make Sure It Is Not `speedtest`)
+  Type `download_test` to watch the gigabytes fly also in ways you never seen before. ( The Function Name Must Match The `download_test` Make Sure It Is Not `speedtest`)
 
 # 🛠️ PRO PRANK TIPS (The "Cool" Section)
 Realism Hack: Change the ISP name in the script to your local provider (e.g., Starlink, Comcast, Hormuud, AT&T, Spectrum (Charter), Verizon, Vodafone, Orange, Deutsche Telekom, BT Group (including EE and Plusnet), and Sky).
