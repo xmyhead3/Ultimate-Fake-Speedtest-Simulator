@@ -14,9 +14,14 @@ This is a high-fidelity speed and download simulator for the Fish Shell. It does
 # 🕹️ HOW TO FLEX (Installation) ( Linux Users )
 Step 1: Grab the code for your desired plan from the folders.
 
-Step 2: Open your terminal and hit Ctrl + J (if you're in VS Code) like you're launching a nuke.
+Step 2: Open your terminal Fish On Linux And Paste The Code and On Visual Code Tap The `Test_Plans.fish` and hit Ctrl + J (if you're in VS Code) like you're launching a nuke.
 
-Step 3: Inject the speed into your shell: `source Test_Plans.fish`
+Step 3: Inject the speed into your shell and paste it all in the terminal
+
+Step 4: Type `speedtest` for functions speedtest and the full visual experience. 
+        Type `download_test` For Function download_test to watch the gigabytes fly.
+
+Step 5: For Visual Studio After U Paste One Of The Plans Code In The CODE BLOCKS for Test_Plans.fish Type In The Terminal `source Test_Plans.fish`
 
 Step 4: ENGAGE. 🚀
 
