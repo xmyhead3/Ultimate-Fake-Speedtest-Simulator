@@ -1,0 +1,94 @@
+function speedtest
+    clear
+    # --- PHASE 1: Optimal Server Discovery ---
+    echo -e "\033[1;36m[SYSTEM]\033[0m Initializing Global Fiber Backbone Trace..."
+    sleep 1
+    
+    set ip_rand1 (random 100 254)
+    set ip_rand2 (random 10 254)
+    set dynamic_ip "192.145.$ip_rand1.$ip_rand2"
+
+    # Discovery Pings
+    set lon_pg (random 8 15)    
+    set ger_pg (random 10 18)   
+    set fra_pg (random 12 22)   
+    set dxb_pg (random 30 45)  
+
+    echo -e "\033[1;30m[PING]\033[0m  London-INX (LON-04) ......... "$lon_pg"ms"
+    sleep 0.8
+    echo -e "\033[1;30m[PING]\033[0m  Germany-DE-CIX (FRA-01) .... "$ger_pg"ms"
+    sleep 0.8
+    echo -e "\033[1;30m[PING]\033[0m  France-IX (PAR-02) ......... "$fra_pg"ms"
+    sleep 0.8
+    echo -e "\033[1;30m[PING]\033[0m  Dubai-IX (DXB-01) ........... "$dxb_pg"ms"
+    sleep 0.8
+    
+    # Discovery Winner
+    set base_pg (random 2 5)
+    echo -ne "\033[1;30m[PING]\033[0m  Hormuud Exchange (MOG-01) ... "$base_pg"ms"
+    sleep 1.2
+    
+    echo -e "\r\033[1;32m[WINNER] Hormuud Exchange (MOG-01) ... "$base_pg"ms (LOWEST LATENCY)\033[0m"
+    echo -ne "\033[1;33m[SCAN]\033[0m  Locking onto Mogadishu Fiber Hub..."
+    sleep 3 
+    
+    echo -e "\r\033[1;32m[FOUND]\033[0m Local Node: Mogadishu-H04 (Latency: "$base_pg"ms)         "
+    echo -ne "\033[1;33m[QoS]\033[0m   Analyzing line interference..."
+    sleep 1.2
+    echo -e "\r\033[1;32m[OK]\033[0m    Line Status: \033[1;32mEXCELLENT\033[0m (Fiber Path Clear)"
+    sleep 1
+    echo ""
+
+    # --- PHASE 2: Permanent Header ---
+    echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━ HORMUUD TELECOM ━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo -e "ISP:      Hormuud Telecom | IP: $dynamic_ip"
+    echo -e "Gaming:   [\033[1;32m EXCELLENT \033[0m] | Bufferbloat: [\033[1;32m    A+     \033[0m]"
+    echo -e "Streaming:[\033[1;32m EXCELLENT \033[0m] | Status:      [\033[1;32m 1GBPS ACTIVE  \033[0m]"
+    echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+    echo ""
+
+    set total_data 0
+    set graph ""
+    set block "█"
+
+    # --- PHASE 3 & 4: Ramp-Up with Dynamic Latency ---
+    for i in (seq 1 30)
+        # Target is 1000 Mbps
+        set dl (math "min(980, 40 * $i)")
+        set ul (math "min(940, 35 * $i)")
+        
+        # Dynamic Latency during test
+        set pg (random 3 6)
+        set jt_raw (random 2 6)
+        set jt (math -s1 "$jt_raw / 10")
+
+        echo -ne "\r\033[1;35mPing: $pg ms\033[0m | \033[1;33mJitter: $jt ms\033[0m | \033[1;32mDL: $dl Mbps\033[0m | \033[1;34mUL: $ul Mbps\033[0m | \033[1;32mMODE: TESTING\033[0m \n\033[1;32mTraffic: [+] \033[1;37mSent: 0GB\033[0m"
+        echo -ne "\033[1A"
+        sleep 0.1
+    end
+
+    # --- PHASE 5: Infinite Live Monitor (Dynamic 1Gbps Zone) ---
+    while true
+        # Real-time Latency Jumps
+        set pg (random 2 5)
+        set jt_raw (random 3 9)
+        set jt (math -s1 "$jt_raw / 10")
+
+        # 1Gbps Speeds (Standard 900+ Mbps range)
+        set dl (math (random 935 978) + (random 1 9)/10) 
+        set ul (math (random 910 945) + (random 1 9)/10)
+        
+        # Data Accumulation (1Gbps moves ~125MB/s. Loop 0.4s = ~50MB)
+        set total_data (math "$total_data + 50")
+        set total_gb (math -s2 "$total_data / 1024")
+
+        set graph "$graph$block"
+        if test (string length "$graph") -gt 35
+            set graph (string sub -s 2 "$graph")
+        end
+
+        echo -ne "\r\033[1;35mPing: $pg ms\033[0m | \033[1;33mJitter: $jt ms\033[0m | \033[1;32mDL: $dl Mbps\033[0m | \033[1;34mUL: $ul Mbps\033[0m | \033[1;32mMODE: EXCELLENT\033[0m \n\033[1;32mTraffic: [$graph] \033[1;37mSent: "$total_gb"GB\033[0m"
+        echo -ne "\033[1A"
+        sleep 0.4
+    end
+end
