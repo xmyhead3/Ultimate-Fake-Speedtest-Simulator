@@ -1,4 +1,4 @@
---------------------------- ![Discord](https://img.shields.io/badge/Discord-%40pvssyy-7289da?style=for-the-badge&logo=discord&logoColor=white) ---------------------------
+----------- ![Discord](https://img.shields.io/badge/Discord-%40pvssyy-7289da?style=for-the-badge&logo=discord&logoColor=white) -----------
 
 # Ultimate-Fake-Speedtest-Simulator
 
