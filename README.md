@@ -46,10 +46,11 @@ Once your computer wakes up, a black box (Ubuntu) will pop up.
 Inside that box, type this and hit Enter: `sudo apt update && sudo apt install fish -y`
 Now, just type fish to enter the cool zone.
 
-Step 3: Launch the Download Test Files Or Speedtest Files Prank And CHoose Any plans! 🚀
-Now that you have the Fish shell, go to the folder where you downloaded my files and type: `source Test_Plans.fish`
-Then just type `speedtest` for Speedtest and watch your friends' jaws hit the floor. 😲💥
-And Type `download_test` For Download Speedtest Files
+Step 3: Launch the Download Test Files Or Speedtest Files Prank And CHoose Any plans to Copy The Codes That Inside The `.fish` files! 🚀
+Now that you have the Fish SHELL READY Paste The Code Inside FISH SHELL
+
+Step 4: Type `speedtest` for the full visual experience and watch your friends' jaws hit the floor. 😲💥. ( The Function Name Must Match The `speedtest` Make Sure It Is Not `download_test`)
+        Type `download_test` to watch the gigabytes fly also in ways you never seen before. ( The Function Name Must Match The `download_test` Make Sure It Is Not `speedtest`)
 
 # 🛠️ PRO PRANK TIPS (The "Cool" Section)
 Realism Hack: Change the ISP name in the script to your local provider (e.g., Starlink, Comcast, Hormuud, AT&T, Spectrum (Charter), Verizon, Vodafone, Orange, Deutsche Telekom, BT Group (including EE and Plusnet), and Sky).
