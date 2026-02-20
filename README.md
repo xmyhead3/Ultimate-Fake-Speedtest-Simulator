@@ -11,7 +11,7 @@ This is a high-fidelity speed and download simulator for the Fish Shell. It does
 | **Petabit Overlord** | 1,000 Tbps | You are the Internet now. | 💀 Terminal Glows |
 
 
-# 🕹️ HOW TO FLEX (Installation) ( Linux Users )
+# 🕹️ HOW TO FLEX (Installation) ( Linux Users / VS Code Users )
 Step 1: Grab the code for your desired plan from the folders.
 
 Step 2: Open your terminal Fish On Linux And Paste The Code and On Visual Code Tap The `Test_Plans.fish` and hit Ctrl + J (if you're in VS Code) like you're launching a nuke.
