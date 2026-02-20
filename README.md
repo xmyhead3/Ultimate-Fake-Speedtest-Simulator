@@ -1,4 +1,6 @@
 # Ultimate-Fake-Speedtest-Simulator
+![Discord](https://img.shields.io/badge/Discord-%40pvssyy-7289da?style=for-the-badge&logo=discord&logoColor=white)
+
 "Because 1Gbps is for mortals. We deal in Petabits." 🌌
 Ever wanted to make your friends think you’ve tapped into a secret NASA satellite? Or maybe you want to flex a connection so fast it downloads the internet before you even click "Save"? You’re in the right place.
 This is a high-fidelity speed and download simulator for the Fish Shell. It doesn't just show numbers; it simulates real-time traffic, fiber-optic multiplexing, and planetary-scale bandwidth.
