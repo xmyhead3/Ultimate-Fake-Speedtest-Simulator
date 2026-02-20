@@ -70,7 +70,7 @@ GitHub: @xmyhead3
 Discord: @pvssyy
 
 ## 📸 Visual Flex
-Check out the speeds in action:
+Check out my nice Setup:
 
 ![My Nice Theme Just Flexing](<My%20Nice%20Theme%20Just%20Flexing.png>)
 
