@@ -37,7 +37,10 @@ Windows doesn't know what a "Fish" is, so we have to teach it.
    
 3. Enter the Cool Zone: Type fish to start the shell.
 
-4. Launch: Copy the code from one of the .fish files in this repo, paste it into the window, and type speedtest.
+4. Launch: Copy the code from one of the .fish files in this repo, paste it into the window,
+5. Type `speedtest` for the full visual experience and watch your friends' jaws hit the floor. 😲💥. ( The Function Name Must Match The `speedtest` Make Sure It Is Not `download_test`)
+
+  Type `download_test` to watch the gigabytes fly also in ways you never seen before. ( The Function Name Must Match The `download_test` Make Sure It Is Not `speedtest`)
 
 # 🛠️ PRO PRANK TIPS
 Realism Hack: Change the ISP name in the script to your local provider (Starlink, Comcast, Hormuud, AT&T, etc.).
