@@ -73,7 +73,7 @@ If you want to simulate a speed so fast it breaks the laws of physics, or if you
 
 GitHub: `@xmyhead3`
 
-Discord:   ![Discord](https://img.shields.io/badge/Discord-%40pvssyy-7289da?style=for-the-badge&logo=discord&logoColor=white)
+Discord: `@pvssyy`
 
 
  ## 📜 DISCLAIMER ##
