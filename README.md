@@ -22,8 +22,8 @@ This is a high-fidelity speed and download simulator for the **Fish Shell**. It 
 1. **Grab the Code:** Open a `.fish` plan from the folders above and copy the code inside.
 2. **Open Terminal:** If using VS Code, hit `Ctrl + J` to open the terminal.
 3. **Inject the Speed:** Paste the code directly into your **Fish Shell** and hit Enter.
-4. **ENGAGE:** - Type `speedtest` to see the glowing speed bars.
-   - Type `download_test` to watch the gigabytes fly.
+4. **ENGAGE:** - Type `speedtest` to see the glowing speed bars. ( The Function Name Must Match The `speedtest` Make Sure It Is Not `download_test`)
+5.  Type `download_test` to watch the gigabytes fly. ( The Function Name Must Match The `download_test` Make Sure It Is Not `speedtest`)
 
 ---
 
