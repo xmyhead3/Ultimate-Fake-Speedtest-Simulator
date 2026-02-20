@@ -54,6 +54,16 @@ This is a simulation. If you call your internet company to ask why you aren't ge
 
 You're a hacker now. Welcome to the Matrix. 🕶️
 
+---
+
+## 📸 VISUAL ADRENALINE 
+This is what your friends will see before they start questioning reality:
+
+![Speedtest Preview](preview1.png)
+
+> **Note:** If your terminal starts glowing blue, that means it's working perfectly. 💎
+---
+
 # 🤝 NEED A CUSTOM PLAN?
 GitHub: @xmyhead3
 
