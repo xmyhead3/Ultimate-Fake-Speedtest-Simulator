@@ -25,9 +25,9 @@ Step 5: For Visual Studio After U Paste One Of The Plans Code In The CODE BLOCKS
 
 Step 4: ENGAGE. 🚀
 
-Type `speedtest` for the full visual experience.
+Type `speedtest` for the full visual experience. ( The Function Name Must Match The `speedtest` Make Sure It Is Not `download_test`)
 
-Type `download_test` to watch the gigabytes fly.
+Type `download_test` to watch the gigabytes fly. ( The Function Name Must Match The `download_test` Make Sure It Is Not `speedtest`)
 
 # 🪟 How to Flex on Windows (The "EZ Mode" Guide)
 Is your Windows feeling slow and boring? Let's give it some "Main Character Energy." Since Windows doesn't know what a "Fish" is, we have to teach it. Follow these steps (don't worry, I'll hold your hand):
