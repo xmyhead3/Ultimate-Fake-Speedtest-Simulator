@@ -59,8 +59,8 @@ You're a hacker now. Welcome to the Matrix. 🕶️
 ## 📸 VISUAL ADRENALINE 
 This is what your friends will see before they start questioning reality:
 
-![Speedtest Preview](preview1.png,preview2.png )
-
+![Speedtest Preview](preview1.png)
+![Speedtest Preview](preview2.png)
 > **Note:** If your terminal starts glowing blue, that means it's working perfectly. 💎
 ---
 
