@@ -4,10 +4,11 @@ Ever wanted to make your friends think you’ve tapped into a secret NASA satell
 This is a high-fidelity speed and download simulator for the Fish Shell. It doesn't just show numbers; it simulates real-time traffic, fiber-optic multiplexing, and planetary-scale bandwidth.
 
 
-# Level,Speed,Vibe,Danger Level
-( Giga-Peasant,1 Gbps,"""It's okay, I guess.""",🥱 Sleepy )
-( Terabit Titan,100 Tbps,Downloading Netflix in 0.5s.,🔥 Spicy )
-( Petabit Overlord,"1,000 Tbps",You are the Internet now.,💀 Terminal Glows )
+# | Level | Speed | Vibe | Danger Level |
+| :--- | :--- | :--- | :--- |
+| **Giga-Peasant** | 1 Gbps | "It's okay, I guess." | 🥱 Sleepy |
+| **Terabit Titan** | 100 Tbps | Downloading Netflix in 0.5s. | 🔥 Spicy |
+| **Petabit Overlord** | 1,000 Tbps | You are the Internet now. | 💀 Terminal Glows |
 
 
 # 🕹️ HOW TO FLEX (Installation) ( Linux Users )
