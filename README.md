@@ -1,4 +1,4 @@
------------ ![Discord](https://img.shields.io/badge/Discord-%40pvssyy-7289da?style=for-the-badge&logo=discord&logoColor=white) -----------
+----------- ![Discord](https://img.shields.io/badge/Discord-%407umz-7289da?style=for-the-badge&logo=discord&logoColor=white) -----------
 
 # Ultimate-Fake-Speedtest-Simulator
 
@@ -65,9 +65,8 @@ This is what your friends will see before they start questioning reality:
 ---
 
 # 🤝 NEED A CUSTOM PLAN?
-GitHub: @xmyhead3
-
-Discord: @pvssyy
+**GitHub:** [@xmyhead3](https://www.google.com/search?q=https://github.com/xmyhead3)  
+**Discord:** `@7umz`
 
 ## 📸 Visual Flex
 Check out my nice Setup:
